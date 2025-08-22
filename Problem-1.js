@@ -1,4 +1,4 @@
-// Problem-1.js
+
 
 class Calculator {
   constructor(a, b, operation) {
@@ -25,3 +25,4 @@ class Calculator {
 
 const calc = new Calculator(10, 5, "add");
 console.log(calc.calculate()); // 15
+
